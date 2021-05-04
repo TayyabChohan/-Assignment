@@ -19,7 +19,7 @@ function Equilibium(arr, n){
           
             return -1;
 }
-var arr= [2,2,25,1,3]
+var arr= [1]
 n=arr.length;
 Equilibium(arr,n)
 console.log(Equilibium(arr,n))
